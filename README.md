@@ -32,7 +32,7 @@ This project served several purposes. I wanted to try out the entry level RL pro
 <p align='center'>
 <img align='middle' width="40%" src="https://github.com/Agnar22/Cartpole/blob/master/training.gif">
 </p>
-The problem is easily solvable with q-learning, as demonstrated above. It needed about 3000 episodes to reach the final fitness where it <i>perfectly</i> balances the pole in the middle of the screen (wait until the end of the gif).
+The problem is easily solvable with q-learning, as demonstrated above (episodes from various parts of the training are shown). It needed about 3000 episodes to reach the final fitness where it <i>perfectly</i> balances the pole in the middle of the screen (wait until the end of the gif).
 
 ## Other resources
 * In [this article](https://www.freecodecamp.org/news/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe/ "Diving deeper into Reinforcement Learning with Q-Learning") from freecodecamp, Thomas Simonini explains Q-learning from scratch.
