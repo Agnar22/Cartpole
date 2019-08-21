@@ -1,6 +1,7 @@
 # Cartpole
 
 Reinforcement learning solution to the [Cartpole environment](http://gym.openai.com/envs/CartPole-v1/ "Cartpole_v1") from OpenAI gym.
+
 This agent uses a Q-learning approach to learn how to balance the pole by moving the cart, given the horizontal position- and velocity of the cart in addition to the angle- and angle velocity of the pole.
 
 ## Installation
