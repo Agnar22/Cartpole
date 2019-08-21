@@ -2,7 +2,7 @@
 
 Reinforcement learning solution to the [Cartpole environment](http://gym.openai.com/envs/CartPole-v1/ "Cartpole_v1") from OpenAI gym.
 
-This agent uses a Q-learning approach to learn how to balance the pole by moving the cart, given the horizontal position- and velocity of the cart in addition to the angle- and angle velocity of the pole.
+This agent uses a Q-learning approach to learn how to balance the pole by moving the cart, given the horizontal position- and velocity of the cart in addition to the angle and angle velocity of the pole.
 
 ## Installation
 Clone the repository
@@ -26,7 +26,7 @@ python3 Main.py
 ```
 
 ## Motivation
-This project served several purposes. I wanted to try out the entry level RL problem from OpenAI gym, Cartpole, as well as learn how to implement the suggested solution from scratch. Being familiar with Q-learning also has other advantages due to the applicability of this algorithm in the RL world.
+This project served several purposes. I wanted to try out the entry level RL problem from OpenAI gym, Cartpole, as well as learn how to implement the suggested solution from scratch. Being familiar with Q-learning also has other advantages due to the applicability of this algorithm in the RL world; for instance, it may be applied to the other "Classic controll" problems from Open AI gym because it is a model-free algorithm that is able to handle stochastic transitions and rewards. Additionally, it is a precursor of Deep Q-networks, thus it is fundamental to have a certain understanding of Q-learning before moving onwards to DQN.
 
 ## Results
 <p align='center'>
