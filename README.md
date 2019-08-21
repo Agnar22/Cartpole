@@ -26,7 +26,7 @@ python3 Main.py
 ```
 
 ## Motivation
-This project served several purposes. I wanted to try out the entry level RL problem from OpenAI gym, Cartpole, as well as learn how to implement the suggested solution. Being familiar with Q-learning also has other advantages due to the applicability of this algorithm in the RL world.
+This project served several purposes. I wanted to try out the entry level RL problem from OpenAI gym, Cartpole, as well as learn how to implement the suggested solution from scratch. Being familiar with Q-learning also has other advantages due to the applicability of this algorithm in the RL world.
 
 ## Results
 <p align='center'>
