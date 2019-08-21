@@ -32,7 +32,8 @@ as well as to learn how to implement it by only using matrix operations. Numpy i
 To check if the neural network (both feed forward and backpropagation) was working, I tested it on the MNIST dataset (supplied by tensorflow).
 
 ## Results
-__coming soon__
+
+<img width="40%" src="https://github.com/Agnar22/Cartpole/blob/master/training.gif">
 
 ## Other resources
 * In [this article](https://www.freecodecamp.org/news/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe/ "Diving deeper into Reinforcement Learning with Q-Learning") from freecodecamp, Thomas Simonini explains Q-learning from scratch.
